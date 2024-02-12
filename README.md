@@ -1,4 +1,13 @@
 # SUJET_4ETI_AdmCO_20232024
+Dépots gitlab :
+Exercice 1 : https://gitlab.com/Lise_Ma/projet1_4eti_amco
+Exercice 2 : https://gitlab.com/Lise_Ma/p1_exo2_amco
+Exercice 3 : https://gitlab.com/Lise_Ma/p1_exo3_amco
+Exercice 4 : https://gitlab.com/Lise_Ma/p1_exo4_amco
+Exercice 5 : https://gitlab.com/Lise_Ma/p1_exo5_amco
+Exercice 6 : https://gitlab.com/Lise_Ma/p1_exo6_amco
+Exercice 7 : https://gitlab.com/Lise_Ma/p1_exo7_amco
+
 
 ![ Bonnes Pratiques](images/Bonnes_Pratiques_m.jpg)
 
